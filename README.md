@@ -6,8 +6,8 @@
 
 Ниже приведён скриншот приложения и какие моковые запросы вернут положительный результат, и какие отрицательный:
 
-![EditCode Screenshot](./client/src/public/img_1.png)
-![EditCode Screenshot](./client/src/public/img.png)
+![EditCode Screenshot](./client/src/public/img_4.png)
+![EditCode Screenshot](./client/src/public/img_5.png)
 ![EditCode Screenshot](./client/src/public/img_2.png)
 ![EditCode Screenshot](./client/src/public/img_3.png)
 
