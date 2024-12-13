@@ -1,0 +1,11 @@
+version: "0"
+services:
+
+  code-editor:
+    build: client
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./client/src:/app/client/src
+    container_name: codeEditor
+    command: /bin/sh -c "npm run dev"

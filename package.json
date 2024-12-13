@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "docker:codeEditor-dev": "docker-compose -f docker-compose.codeEditor-dev.yml up -d"
+  }
+}
